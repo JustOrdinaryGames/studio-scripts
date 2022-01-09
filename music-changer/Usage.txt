@@ -1,0 +1,9 @@
+1: Put this code inside a script in workspace
+PER SONG:
+	1: Make a new sound inside the script.
+	2: Set the Sound's SoundId to the song id.
+	3: Edit the volume until it sounds correct.
+
+Notes:
+	I also added a skip value inside of the script incase you ever wanted to make a voteskip
+	Just make it so if the number of votes exceed a certain percentage or number, make the skip value enabled (serversided).
